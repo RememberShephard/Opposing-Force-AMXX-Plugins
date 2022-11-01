@@ -48,7 +48,7 @@ As Opposing Force is different to Half-Life and uses different offsets, converti
 
 Bind "wp_spawn" to start the plugin, or type it in console. This will save map.ini files in a folder called "weapon_factory" that can be found in your amxx configs folder.
 
-# Opposing Force Rune Mod
+# Opposing Force Rune Mod (Requires 2 plugins)
 // op4_rune_list.amxx
 // op4_runes.amxx
 

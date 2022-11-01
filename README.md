@@ -1,4 +1,5 @@
 # Opposing Force AMXX Plugins
+// When using AMXX with Opposing Force it is advised to use AMXX V1.10. This will fix the known map chooser bug, and will allow for more plugins to work with your game. You can download this version of AMXX here - https://www.amxmodx.org/downloads-new.php?branch=master&all=1
 
 # Opposing Force Severians Mod+ (Requires 2 plugins)
 // op4_sev.amxx

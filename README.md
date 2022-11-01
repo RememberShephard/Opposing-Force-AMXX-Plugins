@@ -46,13 +46,13 @@ As Opposing Force is different to Half-Life and uses different offsets, converti
 # Opposing Force Weapon Framework
 // op4_weapon_framework.amxx
 
-Bind "wp_spawn" to start the plugin, or tpye it in console. This will save map.ini files in a folder called "weapon_factory" that can be found in your amxx configs folder.
+Bind "wp_spawn" to start the plugin, or type it in console. This will save map.ini files in a folder called "weapon_factory" that can be found in your amxx configs folder.
 
 # Opposing Force Rune Mod
 // op4_rune_list.amxx
 // op4_runes.amxx
 
-Requires both of these plugins to work. Bind "rune_spawn_132" to start the plugin, or tpye it in console. This will save rune.ini files in a folder called "op4_runes" that can be found in your amxx configs folder. This plugin does not work on all maps for some unknown reason. 
+Requires both of these plugins to work. Bind "rune_spawn_132" to start the plugin, or type it in console. This will save rune.ini files in a folder called "op4_runes" that can be found in your amxx configs folder. This plugin does not work on all maps for some unknown reason. 
 
 # Opposing Force CTF Jump Fix
 // op4ctf_jumpfix.amxx

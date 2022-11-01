@@ -63,3 +63,6 @@ A plugin created by SPiNX. This fixes the bug with the CTF Longjump pack not wor
 // friction.amxx
 
 A simple plugin created by SPiNX to stop the map changing the friction, as this there is a bug in Opposing Force that when you walk on ice, you cannot stop sliding across the map.
+
+
+#RememberShephard
